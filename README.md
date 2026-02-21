@@ -41,6 +41,7 @@ Based on the dashboard's architecture, it includes the following capabilities:
 
 To modify the backend calculations, unhide the calculation/PivotTable sheets. You can adjust the PivotTable fields or edit the VBA code by pressing `ALT + F11` to open the Visual Basic Editor.
 
-![First Dashboard Snapshot](Dashboard-snap-2.png)
-
-![Second Dashboard Snapshot](Dashboard-snap-2.png)
+## 📸Dashboard Screenshots
+| Dashboard  | Dashboard  |
+| :---: | :---: |
+| ![First Snapshot](Dashboard-snap-1.png) | ![Second Snapshot](Dashboard-snap-2.png) |
